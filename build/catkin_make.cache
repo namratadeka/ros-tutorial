@@ -1,2 +1,2 @@
-beginner_tutorials:urdf_sim_tutorial:urdf_tutorial
+beginner_tutorials
 -DCATKIN_DEVEL_PREFIX=/home/namrata/projects/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/namrata/projects/catkin_ws/install -G Unix Makefiles
